@@ -1,0 +1,9 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+body {
+	background-image: url(https://phonoteka.org/uploads/posts/2021-05/1620063325_6-phonoteka_org-p-fon-s-voprositelnimi-znakami-7.jpg);
+	background-size: cover;
+}
